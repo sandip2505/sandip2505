@@ -151,7 +151,7 @@ const sandip = {
 
 ---
 
-## 🎯 2024 Focus Areas
+## 🎯 2026 Focus Areas
 
 - 🔥 **Advanced Cloud Architecture** (AWS Solutions Architect)
 - 🚀 **System Design & Scalability Patterns**
@@ -196,4 +196,4 @@ Let's build something extraordinary together! 🌟
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-*Last Updated: December 2024 | 3.5+ Years Experience*
+*Last Updated: October 2025 | 3.5+ Years Experience*
